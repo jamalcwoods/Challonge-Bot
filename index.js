@@ -1,12 +1,8 @@
-
 var Discord = require('discord.js');
 var challonge = require('challonge')
 var request = require('request');
 
 challonge.api_key = ""
-// challonge.getTournament("APITEST",function(result){
-// 	console.log(result)
-// })
 
 function checkRole(message,rolename){
 	var authorRoles = message.member.roles.array()
