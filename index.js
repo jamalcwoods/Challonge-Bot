@@ -3,7 +3,7 @@ var Discord = require('discord.js');
 var challonge = require('challonge')
 var request = require('request');
 
-challonge.api_key = "YTu52QxNRPepuaMxl1zlkAe0mwtKrKDRQAOigRaD"
+challonge.api_key = ""
 // challonge.getTournament("APITEST",function(result){
 // 	console.log(result)
 // })
