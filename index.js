@@ -20,7 +20,7 @@ function checkRole(message,rolename){
 
 var client = new Discord.Client();
 
-var token = 'MjkwMzI4MTUyNjM3NzAyMTQ0.C6ZWsg.qS5_BRY--KXBoc2YxN3GQuUfODs';
+var token = '';
 client.login(token);
 
 client.on('guildCreate', guild => {
