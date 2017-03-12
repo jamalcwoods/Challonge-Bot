@@ -16,6 +16,7 @@ Upon joining your server Challonge Discord Bot will do two things:
 - Create a channel called "#tournament-commands"
 
 Challonge Discord Bot will only respond to commands put in #tournament-commands
+
 c!create can only be used by users who have the Tournament Manager Role
 
 Once a tournament is created, the creator of the tournament will have access to a few other commands for moderation purposes
