@@ -1,0 +1,11 @@
+{
+  "name": "challonge_bot",
+  "version": "0.0.1",
+  "description": "A discord bot to help manage challonge tournaments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darkspine77",
+  "license": "ISC"
+}
