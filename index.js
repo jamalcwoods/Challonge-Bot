@@ -2,7 +2,7 @@ var Discord = require('discord.js');
 var challonge = require('challonge')
 var request = require('request');
 
-challonge.api_key = "RELSDfnncYoZ4SLOHQc2RTZH7IiTc8V2qaUvKYX4"
+challonge.api_key = ""
 
 function checkRole(message,rolename){
 	var authorRoles = message.member.roles.array()
@@ -41,10 +41,10 @@ function sendPlayerMatch(tournament,tournament_name,participantActive,single){
 var client = new Discord.Client();
 
 //DARKBOT
-// var token ='MjYyNDU1MDQ2ODYyNjY3Nzc2.C6c4HA.Y0MVMAdB7KYcOlcETEm9G8uTrIo'; 
+// var token =''; 
 
 //ACTUAL
-var token = 'MjkwMzI4MTUyNjM3NzAyMTQ0.C-tMuQ.BWqLD3u93PJxwopEVQNUD6j-_dg';
+var token = '';
 
 client.login(token);
 
