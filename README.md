@@ -1,6 +1,6 @@
 ![N|Solid](https://github.com/Darkspine77/Challonge-Bot/blob/master/challongebot.png)
 
-# Challonge-Bot by Darkspine77 (v 0.1)
+# Challonge-Bot by Darkspine77 (v 0.2)
 A discord bot that allows you to manage challonge tournaments
 
 Powered by [Challonge Official API](https://api.challonge.com/v1) and [Discord.JS](https://discord.js.org/#/)
